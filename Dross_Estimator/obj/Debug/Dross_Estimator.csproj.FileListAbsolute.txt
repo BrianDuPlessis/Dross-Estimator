@@ -19,3 +19,14 @@ D:\Projects\Wireforce\Dross_Estimator\obj\Debug\Dross_Estimator.csproj.GenerateR
 D:\Projects\Wireforce\Dross_Estimator\obj\Debug\Dross_Estimator.csproj.CoreCompileInputs.cache
 D:\Projects\Wireforce\Dross_Estimator\obj\Debug\Dross_Estimator.exe
 D:\Projects\Wireforce\Dross_Estimator\obj\Debug\Dross_Estimator.pdb
+D:\Year3_Sem2\CMPG323(IT_developments)\Git_rep(Dross-Estimator)\Dross_Estimator\bin\Debug\Dross_Estimator.exe.config
+D:\Year3_Sem2\CMPG323(IT_developments)\Git_rep(Dross-Estimator)\Dross_Estimator\bin\Debug\Dross_Estimator.exe
+D:\Year3_Sem2\CMPG323(IT_developments)\Git_rep(Dross-Estimator)\Dross_Estimator\bin\Debug\Dross_Estimator.pdb
+D:\Year3_Sem2\CMPG323(IT_developments)\Git_rep(Dross-Estimator)\Dross_Estimator\obj\Debug\Dross_Estimator.csproj.AssemblyReference.cache
+D:\Year3_Sem2\CMPG323(IT_developments)\Git_rep(Dross-Estimator)\Dross_Estimator\obj\Debug\Dross_Estimator.csproj.SuggestedBindingRedirects.cache
+D:\Year3_Sem2\CMPG323(IT_developments)\Git_rep(Dross-Estimator)\Dross_Estimator\obj\Debug\Dross_Estimator.frmMain.resources
+D:\Year3_Sem2\CMPG323(IT_developments)\Git_rep(Dross-Estimator)\Dross_Estimator\obj\Debug\Dross_Estimator.Properties.Resources.resources
+D:\Year3_Sem2\CMPG323(IT_developments)\Git_rep(Dross-Estimator)\Dross_Estimator\obj\Debug\Dross_Estimator.csproj.GenerateResource.cache
+D:\Year3_Sem2\CMPG323(IT_developments)\Git_rep(Dross-Estimator)\Dross_Estimator\obj\Debug\Dross_Estimator.csproj.CoreCompileInputs.cache
+D:\Year3_Sem2\CMPG323(IT_developments)\Git_rep(Dross-Estimator)\Dross_Estimator\obj\Debug\Dross_Estimator.exe
+D:\Year3_Sem2\CMPG323(IT_developments)\Git_rep(Dross-Estimator)\Dross_Estimator\obj\Debug\Dross_Estimator.pdb
