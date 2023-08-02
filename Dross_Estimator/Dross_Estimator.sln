@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dross_Estimator", "Dross_Estimator.csproj", "{B5AD096B-BBF4-4BF1-90E1-FC0BD87BBFCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5AD096B-BBF4-4BF1-90E1-FC0BD87BBFCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AD096B-BBF4-4BF1-90E1-FC0BD87BBFCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AD096B-BBF4-4BF1-90E1-FC0BD87BBFCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AD096B-BBF4-4BF1-90E1-FC0BD87BBFCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96254ED5-B801-4723-9382-5BF2809111A0}
+	EndGlobalSection
+EndGlobal
